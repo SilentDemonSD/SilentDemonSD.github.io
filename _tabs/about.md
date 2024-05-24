@@ -4,7 +4,7 @@ icon: fas fa-info-circle
 order: 4
 ---
 
-<a href="https://github.com/SilentDemonSD"><kbd><img src="https://raw.githubusercontent.com/SilentDemonSD/SilentDemonSD.github.io/main/assets/img/OIG1.jpeg" height=400/></kbd></a>
+[![](https://raw.githubusercontent.com/SilentDemonSD/SilentDemonSD.github.io/main/assets/img/OIG1.jpeg)](https://github.com/SilentDemonSD)
 
 [![](https://komarev.com/ghpvc/?username=silentdemonsd&label=Profile%20Counter&color=000000&style=plastic)](#)
 
@@ -47,5 +47,3 @@ order: 4
   ## 💰 ***Donate Me***
   [![Ko-Fi](https://img.shields.io/badge/Ko--fi-F16061?style=for-the-badge&logo=ko-fi&logoColor=white)](https://ko-fi.com/MysterySD)
 
-  
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
