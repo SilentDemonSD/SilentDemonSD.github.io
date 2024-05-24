@@ -4,9 +4,7 @@ icon: fas fa-info-circle
 order: 4
 ---
 
-[![](https://raw.githubusercontent.com/SilentDemonSD/SilentDemonSD.github.io/main/assets/img/OIG1.jpeg)](https://github.com/SilentDemonSD)
-
-[![](https://komarev.com/ghpvc/?username=silentdemonsd&label=Profile%20Counter&color=000000&style=plastic)](#)
+<img src="https://raw.githubusercontent.com/SilentDemonSD/SilentDemonSD.github.io/main/assets/img/OIG1.jpeg" alt="MysterySD"/>
 
 ### ℹ️ ***Profile***
 - 🆔️ **Name :** _MysterySD_
