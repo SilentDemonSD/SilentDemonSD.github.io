@@ -1,12 +1,11 @@
 ---
-title: "Getting Started"
-date: 2023-12-07 20:52:55 +0530
-categories: WZML-X General
-tags: guide
+title: "Know Me !"
+date: 2024-05-24 20:52:55 +0530
+categories: 
+tags: info
 ---
 
-# Welcome
-... Shit 
+## ***Heya***
 
-# About
-WZML-X is a ..
+> In Construction... Lazy Busy Nerd, I am a Insane Poet !!
+{: .prompt-tip }
